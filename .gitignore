@@ -1,3 +1,16 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Видео и бинарные файлы
+*.mp4
+*.exe
+*.dll
+*.pth
+
+# Данные и кэши
+/output_clips/
+/temp_audio.wav
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
